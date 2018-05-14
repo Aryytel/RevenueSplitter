@@ -1,6 +1,6 @@
 # Revenue Splitter
 
-"Da best app ever made by the greatest people ever, and I should know, I'm the best"- Donald J. Trump (probably)
+
 
 ## Getting Started
 
